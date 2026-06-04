@@ -131,6 +131,16 @@ JR東日本の旅をサポートするツール
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=y-maeda1116&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&dates=C9D1D9)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=y-maeda1116&style=flat-square&color=2c5364" alt="Profile Views" />
