@@ -148,12 +148,6 @@ JR東日本の旅をサポートするツール
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=y-maeda1116&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 <div align="center">
