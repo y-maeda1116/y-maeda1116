@@ -18,7 +18,7 @@
 ### 📅 [Weekly-Task-Board](https://github.com/y-maeda1116/Weekly-Task-Board)
 週単位でのタスク管理を効率化するマネジメントツール
 
-`Go`
+`TypeScript`
 
 </td>
 <td width="50%">
@@ -26,7 +26,7 @@
 ### 🗺️ [sumida-stream-coffee](https://github.com/y-maeda1116/sumida-stream-coffee)
 コーヒーショップ周辺のマップや情報を視覚的に管理・表示するデジタルマップ
 
-`Web`
+`TypeScript`
 
 </td>
 </tr>
@@ -36,12 +36,51 @@
 ### 🤖 [apple-refurb-discord-notify](https://github.com/y-maeda1116/apple-refurb-discord-notify)
 Apple認定整備済製品の在庫状況を監視し、Discordへ自動通知するスクリプト
 
-`Python` `Discord API`
+`Go`
 
 </td>
 <td width="50%">
 
-<!-- Future project slot -->
+### 👕 [tenki-fuku-bot](https://github.com/y-maeda1116/tenki-fuku-bot)
+天気予報に基づいて明日のおすすめの服装を通知するbot
+
+`Go`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔒 [security-base](https://github.com/y-maeda1116/security-base)
+セキュリティ関連の基盤ツール
+
+`Go`
+
+</td>
+<td width="50%">
+
+### 🚃 [jre-green-trip](https://github.com/y-maeda1116/jre-green-trip)
+JR東日本の旅をサポートするツール
+
+`Go`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 [Playful-Learning-Hub](https://github.com/y-maeda1116/Playful-Learning-Hub)
+楽しく学べる学習プラットフォーム
+
+`TypeScript`
+
+</td>
+<td width="50%">
+
+### 🎮 [games](https://github.com/y-maeda1116/games)
+ブラウザで遊べるゲームコレクション
+
+`JavaScript`
 
 </td>
 </tr>
@@ -57,6 +96,12 @@ Apple認定整備済製品の在庫状況を監視し、Discordへ自動通知�
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 <br/>Go
+
+</td>
+<td align="center" width="80">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<br/>TypeScript
 
 </td>
 <td align="center" width="80">
