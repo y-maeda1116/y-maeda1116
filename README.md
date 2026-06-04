@@ -3,8 +3,6 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=y-maeda1116&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=IT%20Infrastructure%20%7C%20SRE%20%7C%20Automation&descSize=18&descAlignY=52" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2C5364&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=IT%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%83%BBSRE%E9%A0%98%E5%9F%9F%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%AB;Go+%E3%82%84+Python+%E3%81%A7%E8%87%AA%E5%8B%95%E5%8C%96%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E9%96%8B%E7%99%BA%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99)](https://git.io/typing-svg)
-
 </div>
 
 ---
