@@ -117,6 +117,8 @@ JR東日本の旅をサポートするツール
 `Go`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🗺️ [sumida-stream-coffee](https://github.com/y-maeda1116/sumida-stream-coffee)
