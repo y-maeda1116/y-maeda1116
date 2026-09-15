@@ -13,16 +13,70 @@
 <tr>
 <td width="50%">
 
-### 📅 [Weekly-Task-Board](https://github.com/y-maeda1116/Weekly-Task-Board)
-週単位でのタスク管理を効率化するマネジメントツール
+### ☕ [bean-watcher](https://github.com/y-maeda1116/bean-watcher)
+全自動コーヒーメーカーの豆残量とメンテナンス時期を管理し、Discord通知＋ウェブダッシュボードで確認できるツール
+
+`Go`
+
+</td>
+<td width="50%">
+
+### 🚉 [tokyo-hidden-transfers](https://github.com/y-maeda1116/tokyo-hidden-transfers)
+東京の鉄道路線と徒歩・バス連絡の「非公式乗換」、都営バス全系統をインタラクティブに可視化するWebアプリ
+
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖌️ [go-shichi-go](https://github.com/y-maeda1116/go-shichi-go)
+縦書きの俳句・短歌に特化したSNS。5-7-5 / 5-7-5-7-7の文字数制約を核としたプラットフォーム
 
 `TypeScript`
 
 </td>
 <td width="50%">
 
-### 🗺️ [sumida-stream-coffee](https://github.com/y-maeda1116/sumida-stream-coffee)
-コーヒーショップ周辺のマップや情報を視覚的に管理・表示するデジタルマップ
+### 🎒 [pack-and-go](https://github.com/y-maeda1116/pack-and-go)
+同行人数・子どもの年齢・行き先に合わせて、最適な持ち物リストと動線の注意点を動的に生成するWebアプリ
+
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📦 [29cm-less-than-30](https://github.com/y-maeda1116/29cm-less-than-30)
+「30cmを、超えない。」— 最長辺29.9cm以下の商品だけを扱う架空ECサイト（ポートフォリオ作品）
+
+`TypeScript`
+
+</td>
+<td width="50%">
+
+### 🧮 [kuku19-master](https://github.com/y-maeda1116/kuku19-master)
+11×11〜19×19のインド式かけ算を、九九のように効率よく暗記・練習できるSPA
+
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📅 [Weekly-Task-Board](https://github.com/y-maeda1116/Weekly-Task-Board)
+見積もり時間に基づいて週の過負荷を自動警告する、GitHub Pages対応のウィークリータスクボード
+
+`TypeScript`
+
+</td>
+<td width="50%">
+
+### 🔁 [habit-tracker-pwa](https://github.com/y-maeda1116/habit-tracker-pwa)
+毎日続けたい習慣を記録・管理できるシンプルなPWA。ホーム画面に追加して使える
 
 `TypeScript`
 
@@ -49,6 +103,14 @@ Apple認定整備済製品の在庫状況を監視し、Discordへ自動通知�
 <tr>
 <td width="50%">
 
+### 🚃 [jre-green-trip](https://github.com/y-maeda1116/jre-green-trip)
+JR東日本の旅をサポートするツール
+
+`Go`
+
+</td>
+<td width="50%">
+
 ### 🔒 [security-base](https://github.com/y-maeda1116/security-base)
 セキュリティ関連の基盤ツール
 
@@ -57,28 +119,10 @@ Apple認定整備済製品の在庫状況を監視し、Discordへ自動通知�
 </td>
 <td width="50%">
 
-### 🚃 [jre-green-trip](https://github.com/y-maeda1116/jre-green-trip)
-JR東日本の旅をサポートするツール
-
-`Go`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎓 [Playful-Learning-Hub](https://github.com/y-maeda1116/Playful-Learning-Hub)
-楽しく学べる学習プラットフォーム
+### 🗺️ [sumida-stream-coffee](https://github.com/y-maeda1116/sumida-stream-coffee)
+コーヒーショップ周辺のマップや情報を視覚的に管理・表示するデジタルマップ
 
 `TypeScript`
-
-</td>
-<td width="50%">
-
-### 🎮 [games](https://github.com/y-maeda1116/games)
-ブラウザで遊べるゲームコレクション
-
-`JavaScript`
 
 </td>
 </tr>
