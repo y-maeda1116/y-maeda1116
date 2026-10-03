@@ -7,6 +7,20 @@
 
 ---
 
+## 🎯 Core Expertise
+
+<div align="center">
+
+![SRE](https://img.shields.io/badge/SRE-2c5364?style=for-the-badge)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-203a43?style=for-the-badge)
+<br/>
+![GenAI Agent Integration](https://img.shields.io/badge/GenAI_Agent_Integration-1f6feb?style=for-the-badge)
+![Toil Reduction](https://img.shields.io/badge/Toil_Reduction-0f2027?style=for-the-badge)
+
+</div>
+
+---
+
 ## 🛠️ 開発生産物 / Portfolio
 
 <table>
@@ -134,6 +148,8 @@ JR東日本の旅をサポートするツール
 
 ## 🚀 Tech Stack
 
+**Languages & Runtime**
+
 <table>
 <tr>
 <td align="center" width="80">
@@ -156,10 +172,17 @@ JR東日本の旅をサポートするツール
 </td>
 <td align="center" width="80">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br/>Linux
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<br/>Shell
 
 </td>
+</tr>
+</table>
+
+**Infrastructure & Ops**
+
+<table>
+<tr>
 <td align="center" width="80">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -168,8 +191,32 @@ JR東日本の旅をサポートするツール
 </td>
 <td align="center" width="80">
 
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+<br/>Terraform
+
+</td>
+<td align="center" width="80">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br/>Docker
+
+</td>
+<td align="center" width="80">
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+<br/>Datadog
+
+</td>
+<td align="center" width="80">
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 <br/>CI/CD
+
+</td>
+<td align="center" width="80">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br/>Linux
 
 </td>
 </tr>
